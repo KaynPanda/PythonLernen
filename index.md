@@ -27,7 +27,7 @@ Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einsti
 
 - [Übung Listen](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/listen.ipynb) - [Notebook](./uebungen/listen.ipynb)
 
-<!-- - [Übung Listen02](./uebungen/listen02.ipynb) -->
+ 
 
 ---
 
