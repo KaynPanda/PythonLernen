@@ -11,9 +11,9 @@ Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einsti
    [Notebook](./bedingungen.ipynb) - [video](https://youtu.be/NEQJCSbloOw)
 
 - [Funktionen](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/funktionen.ipynb) - 
-   [Notebook](./bedingungen.ipynb) - [video](https://youtu.be/NEQJCSbloOw)
+   [Notebook](./funktionen.ipynb) - [video](https://youtu.be/5qvqujyl90Q)
 
 - [Listen](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/listen.ipynb) - 
-   [Notebook](./bedingungen.ipynb) - [video1](https://youtu.be/NEQJCSbloOw)
+   [Notebook](./listen.ipynb) - [video1](https://youtu.be/RzIazgpfY0M?si=4wRcHPMFGuFJekk2) - [video2 - Seiteneffekte](https://youtu.be/RzIazgpfY0M?si=9odVbOLvqjfjduQH)
 
   
