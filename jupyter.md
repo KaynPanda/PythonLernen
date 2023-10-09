@@ -1,6 +1,6 @@
 ### Jupyter Notebooks
 
-[Video](https://youtu.be/FRTIJix-j3c?si=1Ko2M0CCSKNqtamw)
+[Video](https://youtu.be/zccZhBIzxlE)
 
 Zum Präsentieren der Inhalte und für Übungsaufgaben nutzen wir Jupyter-Notebooks.
 Für die Arbeit mit Jupyter-Notebooks muss auf dem lokalen Rechner ein Jupyter-Server laufen:
@@ -8,7 +8,7 @@ Für die Arbeit mit Jupyter-Notebooks muss auf dem lokalen Rechner ein Jupyter-S
 *Start Jupyter-Server*: Terminal öffnen und eingeben: ```jupyter lab```.
 *Stop Jupyter-Server*:  Strg+C im Terminal
 
-*Neues Notebook:* Ggf durch Click auf ```+``` auf der linken Seite ein Launcher-Tab erstellen, dann auf das Python-Symbol unter *Notebook* clicken. Links in der File-Übersicht das entstandene Notebook ```untitled.ipynb``` mit Rechtsclick selektieren und ggf. umbenennen.
+Auf das Python-Symbol unter *Notebook* clicken. Das links in der File-Übersicht das entstandene Notebook ```untitled.ipynb``` mit Rechtsclick selektieren und ggf. umbenennen.
 
 
 *Neue Zelle:* Click auf ```+``` oberhalb des Hauptarbeitsbereichs erstellt eine Code-Zelle.
