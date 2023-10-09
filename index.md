@@ -18,6 +18,7 @@ Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einsti
 - [Listen](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/listen.ipynb) - 
    [Notebook](./listen.ipynb) - [video1](https://youtu.be/-NiqSTj2H3M) - [video2 (Seiteneffekte)](https://youtu.be/RzIazgpfY0M?si=9odVbOLvqjfjduQH)
 
+
 ---
 
 
@@ -25,7 +26,7 @@ Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einsti
 
 - [Übung Strings](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/strings01.ipynb) - [Notebook](./uebungen/strings01.ipynb)
 
-- [Übung Listen](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/listen.ipynb) - [Notebook](./uebungen/listen.ipynb)
+- [Übung Listen](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/listen01.ipynb) - [Notebook](./uebungen/listen01.ipynb)
 
  
 
