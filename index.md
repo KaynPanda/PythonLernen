@@ -25,7 +25,7 @@ Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einsti
 
 - [Übung Strings](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/strings01.ipynb) - [Notebook](./uebungen/strings01.ipynb)
 
-- [Übung Listen](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/listen01.ipynb) - [Notebook](./uebungen/listen01.ipynb)
+- [Übung Listen](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/listen.ipynb) - [Notebook](./uebungen/listen.ipynb)
 
 <!-- - [Übung Listen02](./uebungen/listen02.ipynb) -->
 
