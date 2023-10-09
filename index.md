@@ -21,11 +21,11 @@ Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einsti
 ---
 
 
-- [Übung Range](./uebungen/range.ipynb)
+- [Übung Range](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/range.ipynb) - [Notebook](./uebungen/range.ipynb)
 
-- [Übung Strings](./uebungen/string01.ipynb)
+- [Übung Strings](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/strings01.ipynb) - [Notebook](./uebungen/strings01.ipynb)
 
-- [Übung Listen01](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/listen01.ipynb) - [Notebook](./uebungen/listen01.ipynb)
+- [Übung Listen](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/listen01.ipynb) - [Notebook](./uebungen/listen01.ipynb)
 
 <!-- - [Übung Listen02](./uebungen/listen02.ipynb) -->
 
