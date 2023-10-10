@@ -28,6 +28,10 @@ Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einsti
 
 - [Übung Listen](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/listen01.ipynb) - [Notebook](./uebungen/listen01.ipynb)
 
+- [Übung Random](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/random.ipynb) - [Notebook](./uebungen/random.ipynb)
+
+
+
  
 
 ---
