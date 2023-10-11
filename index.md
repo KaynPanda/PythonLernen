@@ -30,6 +30,9 @@ Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einsti
 
 - [Übung Random](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/random.ipynb) - [Notebook](./uebungen/random.ipynb)
 
+- [Übung List-Comprehensions](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/listcomprehensions.ipynb) - [Notebook](./listcomprehensions/random.ipynb)
+
+
 
 
  
