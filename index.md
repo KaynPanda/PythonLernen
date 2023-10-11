@@ -36,6 +36,8 @@ Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einsti
 
 - [Übung Listen02](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/listen02.ipynb) - [Notebook](./uebungen/listen02.ipynb)
 
+- [Übung Dictionaries](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/dicts.ipynb) - [Notebook](./uebungen/dicts.ipynb)
+
 
 
 
