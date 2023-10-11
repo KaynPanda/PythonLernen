@@ -38,6 +38,8 @@ Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einsti
 
 - [Übung Dictionaries](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/dicts.ipynb) - [Notebook](./uebungen/dicts.ipynb)
 
+- [Übung Sets](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/sets.ipynb) - [Notebook](./uebungen/sets.ipynb)
+
 
 
 
