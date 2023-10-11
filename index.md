@@ -34,6 +34,8 @@ Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einsti
 
 - [Übung Tuples](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/tuples.ipynb) - [Notebook](./uebungen/tuples.ipynb)
 
+- [Übung Listen02](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/listen02.ipynb) - [Notebook](./uebungen/listen02.ipynb)
+
 
 
 
