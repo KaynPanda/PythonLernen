@@ -40,6 +40,8 @@ Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einsti
 
 - [Übung Sets](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/sets.ipynb) - [Notebook](./uebungen/sets.ipynb)
 
+- [Übung Einlesen](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/einlesen.ipynb) - [Notebook](./uebungen/einlesen.ipynb)
+
 
 
 
