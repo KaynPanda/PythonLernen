@@ -1,3 +1,4 @@
+
 Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einstieg in Python suchen.
 
 - [Installation](./installation.md)
@@ -43,10 +44,11 @@ Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einsti
 - [Übung Einlesen](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/einlesen.ipynb) - [Notebook](./uebungen/einlesen.ipynb)
 
 
-
-
- 
-
 ---
+Auch für Anfänger:
 
+#### [CSCircle](https://cscircles.cemc.uwaterloo.ca/2-de/) 
+Ein Python-Selbstlernkurs. Gib in deinem CSCircles-Profile unter *Guru's username* den Namen *Jellow42* ein.
+
+----
   
