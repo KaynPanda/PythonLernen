@@ -22,8 +22,16 @@ Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einsti
 - [Random](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/random.ipynb) - 
    [Notebook](./random.ipynb) - [video](https://youtu.be/PijFHn7P0L8) 
 
+- [Tupel](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/tupel.ipynb) - 
+   [Notebook](./tupel.ipynb) - [video](https://youtu.be/OWc7f_khlFo) 
+
 - [Dictionaries](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/dicts.ipynb) - 
-   [Notebook](./dicts.ipynb) - [video](https://youtu.be/PG8x9i64g8U)    
+   [Notebook](./dicts.ipynb) - [video](https://youtu.be/PG8x9i64g8U)   
+   
+- [Sets](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/sets.ipynb) - 
+   [Notebook](./sets.ipynb) - [video](https://youtu.be/tm5EdppTffQ)   
+
+
 
 ---
 
