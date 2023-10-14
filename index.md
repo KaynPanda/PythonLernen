@@ -25,7 +25,6 @@ Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einsti
 - [Dictionaries](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/dicts.ipynb) - 
    [Notebook](./dicts.ipynb) - [video](https://youtu.be/PG8x9i64g8U)    
 
-
 ---
 
 
