@@ -31,7 +31,8 @@ Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einsti
 - [Sets](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/sets.ipynb) - 
    [Notebook](./sets.ipynb) - [video](https://youtu.be/tm5EdppTffQ)   
 
-
+- [Comprehensions](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/comprehensions.ipynb) - 
+   [Notebook](./comprehensions.ipynb) - [video](https://youtu.be/QTRYguhzUzA)   
 
 ---
 
