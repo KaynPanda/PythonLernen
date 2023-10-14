@@ -22,7 +22,8 @@ Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einsti
 - [Random](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/random.ipynb) - 
    [Notebook](./random.ipynb) - [video](https://youtu.be/PijFHn7P0L8) 
 
-   
+- [Random](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/dicts.ipynb) - 
+   [Notebook](./dicts.ipynb) - [video](https://youtu.be/PG8x9i64g8U)    
 
 
 ---
