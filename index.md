@@ -35,7 +35,10 @@ Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einsti
    [Notebook](./comprehensions.ipynb) - [video](https://youtu.be/QTRYguhzUzA)  
 
 - [Einlesen](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/einlesen.ipynb) - 
-   [Notebook](./einlesen.ipynb) - [video](https://youtu.be/cBcHc85b4X0)    
+   [Notebook](./einlesen.ipynb) - [video](https://youtu.be/cBcHc85b4X0)   
+
+- [Klassen](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/klassen.ipynb) - 
+  [Notebook](./klassen.ipynb) 
 
 ---
 
@@ -59,6 +62,8 @@ Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einsti
 - [Übung Sets](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/sets.ipynb) - [Notebook](./uebungen/sets.ipynb)
 
 - [Übung Einlesen](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/einlesen.ipynb) - [Notebook](./uebungen/einlesen.ipynb)
+
+- [Übung Klassen](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/klassen.ipynb) - [Notebook](./uebungen/klassen.ipynb)
 
 
 ---
