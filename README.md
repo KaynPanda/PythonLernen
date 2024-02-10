@@ -10,6 +10,7 @@ Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einsti
 #### Erster Durchgang
 
 - [Variablen, print, Rechenoperationen, Strings, input](./durchgang1/variablen.ipynb)
+- [Vergleiche, Bedingungen, Teilbarkeit](./durchgang1/bedingungen.ipynb)
 
 ----
 
