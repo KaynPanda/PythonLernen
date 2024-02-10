@@ -9,12 +9,13 @@ Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einsti
 
 #### Erster Durchgang
 
-- [Variablen, print, Rechenoperationen, Strings, input](./uebungenA/variablen.ipynb)
+- [Variablen, print, Rechenoperationen, Strings, input](./durchgang1/variablen.ipynb)
 
 ----
 
-- [Grundlagen](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/grundlagen.ipynb) - 
-   [Notebook](./grundlagen.ipynb) - [video](https://youtu.be/bDHNZggFtZk)
+#### Zweiter Durchgang
+
+- [Grundlagen](./durchgang2/grundlagen.ipynb) -  [video](https://youtu.be/bDHNZggFtZk)
 
 - [Bedingungen, Schleifen, Strings](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/bedingungen.ipynb) - 
    [Notebook](./bedingungen.ipynb) - [video](https://youtu.be/NEQJCSbloOw)
