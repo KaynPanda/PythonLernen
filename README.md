@@ -39,28 +39,29 @@ Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einsti
 
 ---
 
+#### Übungen
 
-- [Übung Range](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/range.ipynb) - [Notebook](./uebungen/range.ipynb)
+- [Übung Range](./uebungen/range.ipynb)  
 
-- [Übung Strings](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/strings01.ipynb) - [Notebook](./uebungen/strings01.ipynb)
+- [Übung Strings](./uebungen/strings01.ipynb)  
 
-- [Übung Listen](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/listen01.ipynb) - [Notebook](./uebungen/listen01.ipynb)
+- [Übung Listen](./uebungen/listen01.ipynb)  
 
-- [Übung Random](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/random.ipynb) - [Notebook](./uebungen/random.ipynb)
+- [Übung Random](./uebungen/random.ipynb)
 
-- [Übung List-Comprehensions](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/listcomprehensions.ipynb) - [Notebook](./uebungen/listcomprehensions.ipynb)
+- [Übung List-Comprehensions](./uebungen/listcomprehensions.ipynb) 
 
-- [Übung Tuples](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/tuples.ipynb) - [Notebook](./uebungen/tuples.ipynb)
+- [Übung Tuples](./uebungen/tuples.ipynb)  
 
-- [Übung Listen02](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/listen02.ipynb) - [Notebook](./uebungen/listen02.ipynb)
+- [Übung Listen02](./uebungen/listen02.ipynb)  
 
-- [Übung Dictionaries](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/dicts.ipynb) - [Notebook](./uebungen/dicts.ipynb)
+- [Übung Dictionaries](./uebungen/dicts.ipynb)  
 
-- [Übung Sets](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/sets.ipynb) - [Notebook](./uebungen/sets.ipynb)
+- [Übung Sets](./uebungen/sets.ipynb)  
 
-- [Übung Einlesen](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/einlesen.ipynb) - [Notebook](./uebungen/einlesen.ipynb)
+- [Übung Einlesen](./uebungen/einlesen.ipynb)  
 
-- [Übung Klassen](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/uebungen/klassen.ipynb) - [Notebook](./uebungen/klassen.ipynb)
+- [Übung Klassen](./uebungen/klassen.ipynb)  
 
 
 ---
