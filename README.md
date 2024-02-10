@@ -9,6 +9,8 @@ Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einsti
 
 #### Erster Durchgang
 
+Hinweis: In Github werden raw-Zellen nicht angezeigt. Deswegen müsssen die Jupyter Notebooks heruntergeladen und lokal bearbeitet werden.
+
 - [Variablen, print, Rechenoperationen, Strings, input](./durchgang1/variablen.ipynb)
 - [Vergleiche, Bedingungen, Teilbarkeit](./durchgang1/bedingungen.ipynb)
 
