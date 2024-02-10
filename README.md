@@ -17,26 +17,25 @@ Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einsti
 
 - [Grundlagen](./durchgang2/grundlagen.ipynb) -  [video](https://youtu.be/bDHNZggFtZk)
 
-- [Bedingungen, Schleifen, Strings](./bedingungen.ipynb) - [video](https://youtu.be/NEQJCSbloOw)
+- [Bedingungen, Schleifen, Strings](./durchgang2/bedingungen.ipynb) - [video](https://youtu.be/NEQJCSbloOw)
 
-- [Funktionen](./funktionen.ipynb) - [video](https://youtu.be/5qvqujyl90Q)
+- [Funktionen](./durchgang2/funktionen.ipynb) - [video](https://youtu.be/5qvqujyl90Q)
 
-- [Listen](./listen.ipynb) - [video1](https://youtu.be/-NiqSTj2H3M) - [video2 (Seiteneffekte)](https://youtu.be/RzIazgpfY0M?si=9odVbOLvqjfjduQH)
+- [Listen](./durchgang2/listen.ipynb) - [video1](https://youtu.be/-NiqSTj2H3M) - [video2 (Seiteneffekte)](https://youtu.be/RzIazgpfY0M?si=9odVbOLvqjfjduQH)
 
-- [Random](./random.ipynb) - [video](https://youtu.be/PijFHn7P0L8) 
+- [Random](./durchgang2/random.ipynb) - [video](https://youtu.be/PijFHn7P0L8) 
 
-- [Tupel](./tupel.ipynb) - [video](https://youtu.be/OWc7f_khlFo) 
+- [Tupel](./durchgang2/tupel.ipynb) - [video](https://youtu.be/OWc7f_khlFo) 
 
-- [Dictionaries](./dicts.ipynb) - [video](https://youtu.be/PG8x9i64g8U)   
+- [Dictionaries](./durchgang2/dicts.ipynb) - [video](https://youtu.be/PG8x9i64g8U)   
    
-- [Sets](./sets.ipynb) - [video](https://youtu.be/tm5EdppTffQ)   
+- [Sets](./durchgang2/sets.ipynb) - [video](https://youtu.be/tm5EdppTffQ)   
 
-- [Comprehensions](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/comprehensions.ipynb) - 
-   [Notebook](./comprehensions.ipynb) - [video](https://youtu.be/QTRYguhzUzA)  
+- [Comprehensions](./durchgang2/comprehensions.ipynb) - [video](https://youtu.be/QTRYguhzUzA)  
 
-- [Einlesen](./einlesen.ipynb) - [video](https://youtu.be/cBcHc85b4X0)   
+- [Einlesen](./durchgang2/einlesen.ipynb) - [video](https://youtu.be/cBcHc85b4X0)   
 
-- [Klassen](./klassen.ipynb) 
+- [Klassen](./durchgang2/klassen.ipynb) 
 
 ---
 
