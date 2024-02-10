@@ -7,6 +7,12 @@ Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einsti
 
 ----
 
+#### Erster Durchgang
+
+- [Variablen, print, Rechenoperationen, Strings, input](./uebungenA/variablen.ipynb)
+
+----
+
 - [Grundlagen](https://nbviewer.org/github/ktheu/PythonLernen/blob/main/grundlagen.ipynb) - 
    [Notebook](./grundlagen.ipynb) - [video](https://youtu.be/bDHNZggFtZk)
 
