@@ -23,6 +23,7 @@ Hinweis: In Github werden raw-Zellen nicht angezeigt. Deswegen müsssen die Jupy
 - [Variablen, print, Rechenoperationen, Strings, input](./durchgang1/variablen.ipynb)
 - [Vergleiche, Bedingungen, Teilbarkeit](./durchgang1/bedingungen.ipynb)
 - [For-Schleife mit range](./durchgang1/range.ipynb)
+- [String mit Index durchlaufen](./durchgang1/range.ipynb)
 
 ----
 
