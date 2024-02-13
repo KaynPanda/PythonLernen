@@ -1,4 +1,13 @@
 
+---
+Auch für Anfänger:
+
+#### [CSCircle](https://cscircles.cemc.uwaterloo.ca/2-de/) 
+Ein Python-Selbstlernkurs. Gib in deinem CSCircles-Profile unter *Guru's username* den Namen *Jellow42* ein.
+
+----
+
+
 Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einstieg in Python suchen.
 
 - [Installation](./installation/installation.md)
@@ -13,6 +22,7 @@ Hinweis: In Github werden raw-Zellen nicht angezeigt. Deswegen müsssen die Jupy
 
 - [Variablen, print, Rechenoperationen, Strings, input](./durchgang1/variablen.ipynb)
 - [Vergleiche, Bedingungen, Teilbarkeit](./durchgang1/bedingungen.ipynb)
+- [For-Schleife mit range](./durchgang1/range.ipynb)
 
 ----
 
@@ -67,11 +77,5 @@ Hinweis: In Github werden raw-Zellen nicht angezeigt. Deswegen müsssen die Jupy
 - [Übung Klassen](./uebungen/klassen.ipynb)  
 
 
----
-Auch für Anfänger:
 
-#### [CSCircle](https://cscircles.cemc.uwaterloo.ca/2-de/) 
-Ein Python-Selbstlernkurs. Gib in deinem CSCircles-Profile unter *Guru's username* den Namen *Jellow42* ein.
-
-----
   
