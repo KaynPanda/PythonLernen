@@ -21,7 +21,7 @@ Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einsti
 - [Variablen](./durchgang1/variablen.ipynb)
 - [Bedingungen](./durchgang1/bedingungen.ipynb)
 - [for-Schleife mit range](./durchgang1/range.ipynb)
-<!-- - [String mit Index durchlaufen](./durchgang1/range.ipynb) -->
+- [Indexing bei Strings](./durchgang1/strings.ipynb)
 
 ----
 
