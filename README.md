@@ -20,9 +20,9 @@ Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einsti
 
 Hinweis: In Github werden raw-Zellen nicht angezeigt. Deswegen müsssen die Jupyter Notebooks heruntergeladen und lokal bearbeitet werden.
 
-- [Variablen, print, Rechenoperationen, Strings, input](./durchgang1/variablen.ipynb)
-- [Vergleiche, Bedingungen, Teilbarkeit](./durchgang1/bedingungen.ipynb)
-- [For-Schleife mit range](./durchgang1/range.ipynb)
+- [Variablen](./durchgang1/variablen.ipynb)
+- [Bedingungen](./durchgang1/bedingungen.ipynb)
+- [for-Schleife mit range](./durchgang1/range.ipynb)
 - [String mit Index durchlaufen](./durchgang1/range.ipynb)
 
 ----
