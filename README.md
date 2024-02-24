@@ -18,8 +18,6 @@ Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einsti
 
 #### Erster Durchgang
 
-Hinweis: In Github werden raw-Zellen nicht angezeigt. Deswegen müsssen die Jupyter Notebooks heruntergeladen und lokal bearbeitet werden.
-
 - [Variablen](./durchgang1/variablen.ipynb)
 - [Bedingungen](./durchgang1/bedingungen.ipynb)
 - [for-Schleife mit range](./durchgang1/range.ipynb)
