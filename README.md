@@ -1,27 +1,31 @@
 
+## Python Lernen
+
+---
+
+#### [Hinweise zur benutzen Software](./installation/installation.md)
+
 ---
 Auch für Anfänger:
 
-#### [CSCircle](https://cscircles.cemc.uwaterloo.ca/2-de/) 
-Ein Python-Selbstlernkurs. Gib in deinem CSCircles-Profile unter *Guru's username* den Namen *Jellow42* ein.
+#### [CSCircles](https://cscircles.cemc.uwaterloo.ca/2-de/) 
 
-----
-
-
-Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einstieg in Python suchen.
-
-- [Installation](./installation/installation.md)
-
-- [Jupyter Notebooks](./installation/jupyter.md)
+Ein Python-Selbstlernkurs. Keine Installation von Software erforderlich. 
+Registriere dich, damit dein Fortschritt gespeichert wird. 
+Wenn du in deinem CSCircles-Profile unter *Guru's username* den Namen *Jellow42* eingibst,
+kann ich bei Fragen zu Aufgaben deine bisherigen Versuche einsehen.
 
 ----
 
 #### Erster Durchgang
 
+
 - [Variablen](./durchgang1/variablen.ipynb)
 - [Bedingungen](./durchgang1/bedingungen.ipynb)
 - [for-Schleife mit range](./durchgang1/range.ipynb)
 - [Indexing bei Strings](./durchgang1/strings.ipynb)
+- [Slicing bei Strings](./durchgang1/strings_slicing.ipynb)
+- [Listen](./durchgang1/listen.ipynb)
 
 ----
 
@@ -74,6 +78,11 @@ Für alle, die schon etwas Programmiererfahrung haben und einen schnellen Einsti
 - [Übung Einlesen](./uebungen/einlesen.ipynb)  
 
 - [Übung Klassen](./uebungen/klassen.ipynb)  
+
+
+ 
+
+
 
 
 
