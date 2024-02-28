@@ -48,8 +48,8 @@ Alle Versionen zwischen 3.9 und 3.11 sind ok.
 
 5. VSCode von https://code.visualstudio.com/ downloaden und installieren. Zusätzlich die Python-Extension von Microsoft installieren.
 
-[Video zur Installation](https://youtu.be/NwBtcnVls_Y?si=i-3HHMoxT2UQ0jk9) - 
-[Video zu Jupyter Notebooks](./installation/jupyter.md)
+[Video Installation Python](https://youtu.be/NwBtcnVls_Y?si=i-3HHMoxT2UQ0jk9) - 
+[Video Installation Jupyter Lab](./installation/jupyter.md)
 
  
 
