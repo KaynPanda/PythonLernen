@@ -15,15 +15,21 @@ kann ich bei Fragen zu Aufgaben deine bisherigen Versuche einsehen.
 
 ----
 
-#### Erster Durchgang
+#### Teil 1
+
+Hinweise zur Bearbeitung der Aufgaben in Thonny. Lege für jeden Abschnitt einen
+Ordner an. Kopiere die Aufgabenstellung in ein Thonny-File. Aufgaben mit 
+der gleichen Nummer können im gleichen File bearbeitet werden. Kommentiere
+gegebenenfalls ältere Aufgaben aus (Strg + 3).
 
 
-- [Variablen](./durchgang1/variablen.ipynb)
-- [Bedingungen](./durchgang1/bedingungen.ipynb)
-- [for-Schleife mit range](./durchgang1/range.ipynb)
-- [Indexing bei Strings](./durchgang1/strings.ipynb)
-- [Slicing bei Strings](./durchgang1/strings_slicing.ipynb)
-- [Listen](./durchgang1/listen.ipynb)
+
+- [Variablen](./teil1/variablen.ipynb)
+- [Bedingungen](./teil1/bedingungen.ipynb)
+- [for-Schleife mit range](./teil1/range.ipynb)
+- [Indexing bei Strings](./teil1/strings.ipynb)
+- [Slicing bei Strings](./teil1/strings_slicing.ipynb)
+- [Listen](./teil1/listen.ipynb)
 
 ----
 
