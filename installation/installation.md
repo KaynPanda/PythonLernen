@@ -7,20 +7,29 @@ getrennt installiert werden.
 
 Wer Aufgaben in der 3. Runde des Jugendwettbewerbs Informatik oder beim
 Bundeswettbewerb Informatik abgeben möchte, muss dazu eine Dokumentation erstellen. 
-Für diesen Fall empfehle ich zusätzlich zu Thonny die Installation von Python und JupyterLab. 
-Mit JupyterLab können wir relativ einfach solche Dokumentationen erstellen.
+Für diesen Fall empfehle ich die Installation von JupyterLab.
+Damit können wir relativ einfach solche Dokumentationen erstellen. 
 
 Eine sehr gute Entwicklungsumgebung ist VSCode. Der Umgang damit ist etwas komplizierter 
 als in Thonny. Wer viel programmiert, sollte irgendwann von Thonny auf VSCode umsteigen.
 
+----- 
 
 ### Installation von Thonny
 
 Sehr einfach: Von der [Thonny-Webseite](https://thonny.org/) downloaden und installieren.
 
+### Installation von JupyterLab in Thonny
 
+Werkzeuge - Verwalte Pakete - Suche im PyPI: Jupyter - 
+jupyter (Jupyter metapackage. Install all the Jupyter components in one go) selektieren und installieren 
 
-### Installation von Python und JuypterLab
+JupyterLab wird gestartet mit:
+Werkzeuge - System Terminal öffnen - dort eingeben: jupyter lab
+
+------- 
+
+### Installation von Python, JupyterLab und VSCode
 
 Wir wählen hier die einfache Installation mit Aufnahme von Python in den Systempfad.
 
@@ -35,12 +44,14 @@ Alle Versionen zwischen 3.9 und 3.11 sind ok.
 
 4. Wechsel in den Ordner, in dem wir arbeiten wollen, dort keine Datei selektieren, Strg+rechte Maus, In Terminal öffen (oder Powershell), jupyter lab.  Dieses Fenster während der Arbeit mit dem Notebook nicht schließen.
 
-[Video zur Installation](https://youtu.be/NwBtcnVls_Y?si=i-3HHMoxT2UQ0jk9)
+5. VSCode von https://code.visualstudio.com/ downloaden und installieren. Zusätzlich die Python-Extension von Microsoft installieren.
+
+[Video zur Installation](https://youtu.be/NwBtcnVls_Y?si=i-3HHMoxT2UQ0jk9) - 
 [Video zu Jupyter Notebooks](./installation/jupyter.md)
 
-### Installation von VSCode
+ 
 
-Von https://code.visualstudio.com/ downloaden und installieren. Zusätzlich die Python-Extension von Microsoft installieren.
+
 
 
 
