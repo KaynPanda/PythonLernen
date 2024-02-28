@@ -3,11 +3,9 @@
 
 ---
 
-#### [Hinweise zur benutzen Software](./installation/installation.md)
+#### [Hinweise zur benutzten Software](./installation/installation.md)
 
 ---
-Auch für Anfänger:
-
 #### [CSCircles](https://cscircles.cemc.uwaterloo.ca/2-de/) 
 
 Ein Python-Selbstlernkurs. Keine Installation von Software erforderlich. 
