@@ -18,10 +18,7 @@ kann ich bei Fragen zu Aufgaben deine bisherigen Versuche einsehen.
 #### Teil 1
 
 Hinweise zur Bearbeitung der Aufgaben in Thonny. Lege für jeden Abschnitt einen
-Ordner an. Kopiere die Aufgabenstellung in ein Thonny-File. Aufgaben mit 
-der gleichen Nummer können im gleichen File bearbeitet werden. Kommentiere
-gegebenenfalls ältere Aufgaben aus (Strg + 3).
-
+Ordner an, kopiere jede Aufgabe in ein Thonny-File.
 
 
 - [Variablen](./teil1/variablen.ipynb)
