@@ -27,6 +27,7 @@ Ordner an, kopiere jede Aufgabe in ein Thonny-File. [Video](https://youtu.be/UdJ
 - [Indexing bei Strings](./teil1/strings.ipynb)
 - [Slicing bei Strings](./teil1/strings_slicing.ipynb)
 - [Listen](./teil1/listen.ipynb)
+- [Listen und Strings](./teil1/listen_und_strings.ipynb)
 
 ----
 
