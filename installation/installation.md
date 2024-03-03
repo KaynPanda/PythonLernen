@@ -18,10 +18,13 @@ als in Thonny. Wer viel programmiert, sollte irgendwann von Thonny auf VSCode um
 ### Installation von Thonny
 
 Sehr einfach: Von der [Thonny-Webseite](https://thonny.org/) downloaden und installieren.
+Mehr braucht es nicht, um mit der Programmierung loszulegen
 
 ----
 
 ### Installation von JupyterLab in Thonny
+
+Dies benötigst du, wenn du Dokumentationen mit Jupyterlab erstellen willst.
 
 In Thonny: Werkzeuge - Verwalte Pakete - Suche im PyPI: Jupyter - 
 jupyter (Jupyter metapackage. Install all the Jupyter components in one go) selektieren und installieren 
@@ -32,6 +35,8 @@ Werkzeuge - System Terminal öffnen - dort eingeben: jupyter lab
 ------- 
 
 ### Installation von Python, JupyterLab und VSCode
+
+Dies benötigst du nur, wenn du statt mit Thonny mit VSCode arbeiten möchtest.
 
 Wir wählen hier die einfache Installation mit Aufnahme von Python in den Systempfad.
 
