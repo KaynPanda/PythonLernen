@@ -30,6 +30,7 @@ Ordner an, kopiere jede Aufgabe in ein Thonny-File. [Video](https://youtu.be/UdJ
 - [Listen und Strings](./teil1/listen_und_strings.ipynb)
 - [Funktionen](./teil1/funktionen.ipynb)
 - [String-Methoden](./teil1/string_methoden.ipynb)
+- [Listen-Methoden](./teil1/listen_methoden.ipynb)
 ----
 
 #### Erläuterungen mit Videos
