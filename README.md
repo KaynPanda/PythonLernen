@@ -5,16 +5,6 @@
 
 #### [Hinweise zur benutzten Software](./installation/installation.md)
 
----
-#### [CSCircles](https://cscircles.cemc.uwaterloo.ca/2-de/) 
-
-Ein Python-Selbstlernkurs. Keine Installation von Software erforderlich. 
-Registriere dich, damit dein Fortschritt gespeichert wird. 
-Wenn du in deinem CSCircles-Profile unter *Guru's username* den Namen *Jellow42* eingibst,
-kann ich bei Fragen zu Aufgaben deine bisherigen Versuche einsehen.
-
-----
-
 #### Teil 1
 
 Hinweise zur Bearbeitung der Aufgaben in Thonny. Lege für jeden Abschnitt einen
