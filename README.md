@@ -22,6 +22,7 @@ Ordner an, kopiere jede Aufgabe in ein Thonny-File. [Video](https://youtu.be/UdJ
 - [String-Methoden](./teil1/string_methoden.ipynb)
 - [Listen-Methoden](./teil1/listen_methoden.ipynb)
 - [List-Comprehensions](./teil1/list_comprehensions.ipynb)
+- [Zeichen](./teil1/zeichen.ipynb)
 ----
 
 #### Erläuterungen mit Videos
